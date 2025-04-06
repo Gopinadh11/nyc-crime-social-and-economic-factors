@@ -14,5 +14,5 @@ learning models to predict a crime that might take place in a particular place.
 
 Credits: 
  1) Gopinadh Batchu
- 2) Vivek Reddy Dundi 
+ 2) Dundi Vivek Reddy
                 
